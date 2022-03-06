@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ath3110
 - 👀 I’m interested in programming and developing websites. 
-- 🌱 I’m currently learning MERN stack.
+- 🌱 I’m currently learning ANDROID DEVELOPMENT.
 - 💞️ I’m looking for a job.
 - 📫 You can contact me on shindeatharva@kbtcoe.org
 
